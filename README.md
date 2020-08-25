@@ -1,10 +1,5 @@
 ![https://github.com/users/simsimjae/contributions](https://grass-graph.moshimo.works/images/simsimjae.png?width=1000)
 
-### History
-2012 ~ 2019
-
-![github stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true)
-
 **Languages and Tools:** 
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
