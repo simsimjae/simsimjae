@@ -1,4 +1,4 @@
-![https://github.com/users/simsimjae/contributions](https://grass-graph.moshimo.works/images/simsimjae.png?width=800)
+![https://github.com/users/simsimjae/contributions](https://grass-graph.moshimo.works/images/simsimjae.png?width=1000)
 
 ### History
 2012 ~ 2019
