@@ -1,7 +1,9 @@
 **1day 1commit**
+
 ![https://github.com/users/simsimjae/contributions](https://grass-graph.moshimo.works/images/simsimjae.png?width=1000)
 
 **Languages and Tools:** 
+
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
