@@ -1,3 +1,5 @@
+![https://github.com/users/simsimjae/contributions](https://grass-graph.moshimo.works/images/simsimjae.png?width=800)
+
 ### History
 2012 ~ 2019
 
