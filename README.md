@@ -1,4 +1,4 @@
-<h3> 👨 About Me (Sim Jae Cheol) </h3>
+## 👨 About Me (Sim Jae Cheol)
 
 - 🎓 (2012.03 ~ 2019.01) Graduated from the Department of Computer Engineering at **Hongik University**
 - 🤔 (2019.01 ~ current) **SSG.COM** FrontEnd Developer
