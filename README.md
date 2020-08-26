@@ -1,6 +1,8 @@
-## Jae Cheol's Github Profile
+<h3> 👨🏻‍💻 About Me (Sim Jae Cheol) </h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&theme=dracula&count_private=true)
+- 🎓 (2012.03 ~ 2019.01) Graduated from the Department of Computer Engineering at Hongik University
+- 🤔 (2019.01 ~ current) SSG.COM FrontEnd Developer
+- 🌱 (2020.08 ~ 2020.12) Depromeet IT Union Club Activity (Designer + Programmer)
 
 **Languages and Tools:** 
 
@@ -10,3 +12,5 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&count_private=true)
