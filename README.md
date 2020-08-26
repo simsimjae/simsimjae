@@ -1,6 +1,6 @@
 ## Jae Cheol's Github Profile
 
-![https://github.com/users/simsimjae/contributions](https://grass-graph.moshimo.works/images/simsimjae.png?width=1000)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&theme=dracula&count_private=true)
 
 **Languages and Tools:** 
 
