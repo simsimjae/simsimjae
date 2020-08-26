@@ -4,6 +4,9 @@
 - 🤔 (2019.01 ~ current) **SSG.COM** FrontEnd Developer
 - 🌱 (2020.08 ~ 2020.12) **Depromeet** IT Union Club Activity (Designer + Programmer)
 
+## E-book
+- [React Core Clone Tutorial (simsimReact)](https://simsimjae.github.io/simsimreact)
+
 **Languages and Tools:** 
 
 <p align="left">
