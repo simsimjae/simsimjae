@@ -5,7 +5,7 @@
 - 🌱 (2020.08 ~ 2020.12) **Depromeet** IT Union Club Activity (Designer + Programmer)
 
 ## E-book
-- [React Core Clone Tutorial (simsimReact)](https://simsimjae.github.io/simsimreact)
+- [React Core Clone Tutorial (simsimReact)](https://simsimjae.gitbook.io/simsimreact)
 
 **Languages and Tools:** 
 
