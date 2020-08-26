@@ -13,4 +13,4 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&count_private=true)
+![simsimjae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&count_private=true)
