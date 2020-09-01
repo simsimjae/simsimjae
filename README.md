@@ -7,6 +7,7 @@
 ## E-book
 - [React Core Clone Tutorial (simsimReact)](https://simsimjae.gitbook.io/simsimreact)
 - [Next.js Korean Documentation](https://simsimjae.gitbook.io/nextjs-korean-documentation/)
+- [Design System Reference](https://simsimjae.gitbook.io/design-system-reference)
 
 **Languages and Tools:** 
 
