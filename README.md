@@ -12,7 +12,7 @@
 - [Next.js Korean Documentation](https://simsimjae.gitbook.io/nextjs-korean-documentation/)
 - [Design System Reference](https://simsimjae.gitbook.io/design-system-reference)
 
-**Languages and Tools:** 
+## Languages and Tools ##
 
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
@@ -20,5 +20,10 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
+
+## Contact me ##
+email: simsimjae@naver.com
+blog: simsimjae.tistory.com
+blog: medium.com/@simsimjae
 
 ![simsimjae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&count_private=true)
