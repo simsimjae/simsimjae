@@ -22,8 +22,8 @@
 </p>
 
 ## Contact me ##
-email: simsimjae@naver.com
-blog: simsimjae.tistory.com
-blog: medium.com/@simsimjae
+email: simsimjae@naver.com  
+blog: simsimjae.tistory.com  
+blog: medium.com/@simsimjae  
 
 ![simsimjae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simsimjae&show_icons=true&count_private=true)
