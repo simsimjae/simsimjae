@@ -13,7 +13,9 @@
 - [Design System Reference](https://simsimjae.gitbook.io/design-system-reference)
 
 ## articles
+React Design Pattern
 - [Props Collection Pattern](https://medium.com/@simsimjae/react-design-pattern-prop-collection-pattern-efbc05aa73f7)
+- [Props Getter Pattern](https://medium.com/@simsimjae/react-design-pattern-props-getter-pattern-5d3cf6f0b495)
 
 ## Languages and Tools ##
 
