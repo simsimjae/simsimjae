@@ -12,6 +12,9 @@
 - [Next.js Korean Documentation](https://simsimjae.gitbook.io/nextjs-korean-documentation/)
 - [Design System Reference](https://simsimjae.gitbook.io/design-system-reference)
 
+## articles
+- [Prop Collection Pattern](https://medium.com/@simsimjae/react-design-pattern-prop-collection-pattern-efbc05aa73f7)
+
 ## Languages and Tools ##
 
 <p align="left">
