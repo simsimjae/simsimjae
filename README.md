@@ -3,7 +3,7 @@
 - 🎓 (2012.03 ~ 2019.02) Graduated from the Department of Computer Engineering at **Hongik University**
 - 🤔 (2019.01 ~ 2021.03) **SSG.COM** FrontEnd Developer
 - 🌱 (2020.08 ~ 2020.12) **Depromeet** IT Union Club Activity (Designer + Programmer)
-- 🤔 (2019.01 ~ 2021.03) **Freelancer** FrontEnd + BackEnd(ing) + Mobile Application(ing)
+- 🤔 (2021.03 ~ current) **Freelancer** FrontEnd + BackEnd(ing) + Mobile Application(ing)
 
 ## Open Sources
 - [Github Profile Card Component](https://github.com/simsimjae/github-profile-card-component)
